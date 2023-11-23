@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **A Custom Discord Scraper**, **A NYT Mini Crossword Solver**, and **A Blackjack Datatable**
+ 🔭 I’m currently working on **A Custom Discord Scraper**, **A NYT Mini Crossword Solver**, and **A Roulette Datatable**
  
  🌱 I’m currently learning **Python, Java, Tensorflow, and Pandas**
 
