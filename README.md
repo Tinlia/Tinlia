@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[ascii2img](https://github.com/Tinlia/ascii2img)** and **[StreakBuilder](https://github.com/Tinlia/StreakBuilder)**
+ 🔭 I’m currently working on **[ascii2img](https://github.com/Tinlia/ascii2img)** and **[StreakBuilder](https://github.com/Tinlia/streak-builder)**
  
  🌱 I’m currently learning **Python, Java, Tensorflow, and Pandas**
 
