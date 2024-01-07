@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[ascii2img](https://github.com/Tinlia/ascii2img)** and **[StreakBuilder](https://github.com/Tinlia/streak-builder)**
+ 🔭 I’m currently working on **[StreakBuilder](https://github.com/Tinlia/streak-builder)**
  
- 🌱 I’m currently learning **Python, Java, Tensorflow, and Pandas**
+ 🌱 I’m currently learning **Python, JavaScript, Tensorflow, and Pandas**
 
  💡 I'm interested in **Machine Learning** and **Cybersecurity**
 
