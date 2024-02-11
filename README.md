@@ -17,7 +17,7 @@
  💡 I'm interested in **Machine Learning** and **Cybersecurity**
 
  ⭐ Check out my latest projects: [ascii2img](https://github.com/Tinlia/ascii2img), [DiscordServerScraper](https://github.com/Tinlia/OtherProjects/tree/main/Python/DiscordServerScraper), [CancerTest](https://github.com/Tinlia/OtherProjects/tree/main/Python/MachineLearning/CancerTest), 
-and [TerminalRoulette](https://github.com/Tinlia/OtherProjects/tree/main/Python/Roulette)
+and [TerminalRoulette](https://github.com/Tinlia/terminalRoulette)
 
  </div>
  
