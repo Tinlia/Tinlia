@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[StreakBuilder](https://github.com/Tinlia/streak-builder)** and **[Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics)
+ 🔭 I’m currently working on **[StreakBuilder](https://github.com/Tinlia/streak-builder)** and **[Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics)**
  
  🌱 I’m currently learning **Python, JavaScript, Tensorflow, and Pandas**
 
