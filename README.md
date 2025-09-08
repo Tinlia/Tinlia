@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, JavaScript, Tensorflow, and CUDA**
 
- 💡 I'm interested in **Genetic Programming** and **Data Analysis**
+ 💡 I'm interested in **Evolutionary Computation** and **Data Analysis**
 
  ⭐ Check out my latest projects: [ascii2img](https://github.com/Tinlia/ascii2img), [Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics), [CancerTest](https://github.com/Tinlia/OtherProjects/tree/main/Python/MachineLearning/CancerTest), 
 and [TerminalRoulette](https://github.com/Tinlia/terminalRoulette)
