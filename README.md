@@ -10,12 +10,11 @@
  
  🔭 I’m currently working on **[StreakBuilder](https://github.com/Tinlia/streak-builder)** and **[Genetic Programming](https://github.com/Tinlia/genetic-algorithms)**
  
- 🌱 I’m currently learning **Python, JavaScript, Tensorflow, and CUDA**
+ 🌱 I’m currently learning **ANNs, Reinforcement Learning, and Numpy**
 
  💡 I'm interested in **Evolutionary Computation** and **Data Analysis**
 
- ⭐ Check out my latest projects: [ascii2img](https://github.com/Tinlia/ascii2img), [Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics), [CancerTest](https://github.com/Tinlia/OtherProjects/tree/main/Python/MachineLearning/CancerTest), 
-and [TerminalRoulette](https://github.com/Tinlia/terminalRoulette)
+ ⭐ Check out my latest projects: [ascii2img](https://github.com/Tinlia/ascii2img), [Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics), [StreakBuilder](https://github.com/Tinlia/streak-builder), and [TerminalRoulette](https://github.com/Tinlia/terminalRoulette)
 
  </div>
  
