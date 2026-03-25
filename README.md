@@ -14,7 +14,7 @@
 
  💡 I'm interested in **Evolutionary Computation** and **Data Analysis**
 
- ⭐ Check out my latest projects: [ascii2img](https://github.com/Tinlia/ascii2img), [Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics), [StreakBuilder](https://github.com/Tinlia/streak-builder), and [TerminalRoulette](https://github.com/Tinlia/terminalRoulette)
+ ⭐ Check out my latest projects: [ascii2img](https://github.com/Tinlia/ascii2img), [Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics), [StreakBuilder](https://github.com/Tinlia/streak-builder), and [MyFinalProject](https://github.com/Tinlia/COSC4P96-Final)
 
  </div>
  
