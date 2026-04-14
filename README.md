@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[StreakBuilder](https://github.com/Tinlia/streak-builder)** and **[Genetic Programming](https://github.com/Tinlia/genetic-algorithms)**
+ I’m currently working on **[StreakBuilder](https://github.com/Tinlia/streak-builder)** and **[Genetic Programming](https://github.com/Tinlia/genetic-algorithms)**
  
- 🌱 I’m currently learning **ANNs, Reinforcement Learning, and Numpy**
+ I’m currently learning **ANNs, Reinforcement Learning, and Optimization Algorithms**
 
- 💡 I'm interested in **Evolutionary Computation** and **Data Analysis**
+ I'm interested in **Evolutionary Computation** and **Data Analysis**
 
- ⭐ Check out my latest projects: [ascii2img](https://github.com/Tinlia/ascii2img), [Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics), [StreakBuilder](https://github.com/Tinlia/streak-builder), and [MyFinalProject](https://github.com/Tinlia/COSC4P96-Final)
+ ⭐ Check out some of my favourite projects: [ascii2img](https://github.com/Tinlia/ascii2img), [Roulette Statistics](https://github.com/Tinlia/rouletteSystemStatistics), [StreakBuilder](https://github.com/Tinlia/streak-builder), and [MyFinalProject](https://github.com/Tinlia/COSC4P96-Final)
 
  </div>
  
